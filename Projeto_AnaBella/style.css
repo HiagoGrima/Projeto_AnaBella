@@ -1,0 +1,42 @@
+
+html, header, nav, ul, img, a, body, p, h1, h2, h3, img, section, footer, li, span{
+    margin: 0%;
+    padding: 0;
+    border: 0;}
+body{
+    background: #d2d2c1 url(fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+#principal {
+    width: 900px;
+}
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+}
+#conteudo {
+    background: #e8e8d9;
+    width: 880px;
+    padding: 10px; 
+
+}
+h1{
+    color:#99998c;
+    font-size: 1.2em;
+}
+a{
+color: #4b566a;
+text-decoration: none;
+font-weight: bold;
+}
+.centralizar{
+    text-align: center;
+    
+}
+.img-contato{
+    border: 10px solid #c3c3ae;
+
+}
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
